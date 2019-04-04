@@ -1,0 +1,15 @@
+C:\Users\xavierg.DE\Documents\selenium\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\xavierg.DE\Documents\selenium\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\xavierg.DE\Documents\selenium\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\xavierg.DE\Documents\selenium\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\xavierg.DE\Documents\selenium\bin\Debug\netcoreapp2.1\selenium.deps.json
+C:\Users\xavierg.DE\Documents\selenium\bin\Debug\netcoreapp2.1\selenium.runtimeconfig.json
+C:\Users\xavierg.DE\Documents\selenium\bin\Debug\netcoreapp2.1\selenium.runtimeconfig.dev.json
+C:\Users\xavierg.DE\Documents\selenium\bin\Debug\netcoreapp2.1\selenium.dll
+C:\Users\xavierg.DE\Documents\selenium\bin\Debug\netcoreapp2.1\selenium.pdb
+C:\Users\xavierg.DE\Documents\selenium\obj\Debug\netcoreapp2.1\selenium.csprojAssemblyReference.cache
+C:\Users\xavierg.DE\Documents\selenium\obj\Debug\netcoreapp2.1\selenium.csproj.CoreCompileInputs.cache
+C:\Users\xavierg.DE\Documents\selenium\obj\Debug\netcoreapp2.1\selenium.AssemblyInfoInputs.cache
+C:\Users\xavierg.DE\Documents\selenium\obj\Debug\netcoreapp2.1\selenium.AssemblyInfo.cs
+C:\Users\xavierg.DE\Documents\selenium\obj\Debug\netcoreapp2.1\selenium.dll
+C:\Users\xavierg.DE\Documents\selenium\obj\Debug\netcoreapp2.1\selenium.pdb
