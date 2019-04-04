@@ -13,7 +13,7 @@ namespace Tests
     public class Tests
     {
         private const int WebdriverWaitForMilliseconds = 3000;
-        private readonly NetworkCredential _credentials = new NetworkCredential("boniato", "boniato","xavi");
+        private readonly NetworkCredential _credentials = new NetworkCredential("user", "password","domain");
         [SetUp]
         public void Setup()
         {
